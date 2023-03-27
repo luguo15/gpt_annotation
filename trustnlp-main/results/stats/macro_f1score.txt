@@ -1,0 +1,4 @@
+Macro f1-score between label & gpt3_label: 0.301
+Macro f1-score between label & chatGPT_labels: 0.366
+Macro f1-score between label & gpt3_label: 0.299
+Macro f1-score between label & chatGPT_labels: 0.367

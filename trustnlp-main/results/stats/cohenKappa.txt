@@ -1,0 +1,6 @@
+Cohen Kappa score between label & gpt3_label: -0.004
+Cohen Kappa score between label & chatGPT_labels: 0.047
+Cohen Kappa score between gpt3_label & chatGPT_labels: 0.41
+Cohen Kappa score between label & gpt3_label: -0.007
+Cohen Kappa score between label & chatGPT_labels: 0.046
+Cohen Kappa score between gpt3_label & chatGPT_labels: 0.411
