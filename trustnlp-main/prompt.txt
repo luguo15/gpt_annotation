@@ -1,2 +1,0 @@
-Read the following sentence - {}
-Answer this question as concisely as possible - Does the sentence describe any causal or correlational research finding?
