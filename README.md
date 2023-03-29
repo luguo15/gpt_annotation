@@ -27,8 +27,15 @@ python main.py --model='chatgpt' \
 To run the statistics test, your dataset should include integer label values from the second column. 
 
 Below is the sample code to run statistics from `final_result.csv` and save the statistics text file into `./results/stats/` folder.
+**--chatGPT**
 ```python
 python main.py --work='quant' \
-               --data-path="./results/final_result.csv" \
+               --data-path="./results/calcu_chatGPT_final_result_remove_unclear.csv" \
+               --output-path="./results/stats/"
+```
+**--GPT3**
+```python
+python main.py --work='quant' \
+               --data-path="./results/calcu_gpt3_final_result.csv" \
                --output-path="./results/stats/"
 ```
